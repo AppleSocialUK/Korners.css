@@ -10,11 +10,12 @@
     Opera latest
 */
 
-/* Rounded Corners 5px */
+/* Main body typeography */
 body h1,h2,h3,h4,h5,h6,p,span {
   font-family:Arial, Verdana, Helvetica;
   font-size:1em;
 }
+/* Rounded Corners 5px */
 .r_c_5 {
 border-top-left-radius:5px 5px; 
 border-top-right-radius:5px 5px; 
