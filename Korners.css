@@ -53,4 +53,12 @@ border-bottom-right-radius:10px 10px;
 .b_b_g_1 {
         border-bottom:2px solid #00FF00;
 }
-
+/* Light gray button + Dark gray hover */
+.l_g_b {
+        background-color:#333333;
+        color:#000000;
+}
+.d_g_h:hover {
+        background-color:#666666;
+        color:#FFFFFF;
+}
